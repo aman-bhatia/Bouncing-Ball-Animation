@@ -20,6 +20,7 @@ Features
 Instructions
 ============
 For compiling use make command. Once the program is running, following holds,
+
 1. Space Bar will toggle Play/Pause.
 2. In 3D mode, dragging the mouse will change orientation of the cuboid and scrolling will zoom in/out.
 3. In 3D mode, user can move the cuboid by arrow keys.
