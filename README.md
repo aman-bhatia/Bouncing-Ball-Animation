@@ -21,13 +21,13 @@ Features
 
 ![alt text][screenshot2d]
 
-[screenshot2d]: ./Screenshot1.png "Screenshot2d"
+[screenshot2d]: ./src/Screenshot1.png "Screenshot2d"
 
 - Here is a screenshot of the application in the 3D mode.
 
 ![alt text][screenshot3d]
 
-[screenshot3d]: ./Screenshot2.png "Screenshot3d"
+[screenshot3d]: ./src/Screenshot2.png "Screenshot3d"
 
 
 
